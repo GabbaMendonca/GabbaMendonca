@@ -1,11 +1,11 @@
 - 👋 Hi, I’m Gabriel "Gabba" Mendonça - @GabbaMendonca
 - 🌱 I’m currently learning HTML | CSS | JavaScript
-- 📫 How to reach me gabba.kumbuca@gmail.com
+- 📫 How to reach me gabba.script@gmail.com
 - :earth_americas: My profile on LinkedIn https://www.linkedin.com/in/gabbamendonca/
 ---
 - 👋 Olá, sou Gabriel "Gabba" Mendonça - @GabbaMendonca
 - 🌱 Atualmente estou aprendendo HTML | CSS | JavaScript
-- 📫 Como me encontrar gabba.kumbuca@gmail.com
+- 📫 Como me encontrar gabba.script@gmail.com
 - :earth_americas: Meu perfil no LinkedIn https://www.linkedin.com/in/gabbamendonca/
 
 <!---
